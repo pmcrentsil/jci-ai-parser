@@ -1,4 +1,4 @@
-azure-ai-documentintelligence
-openai
-pymupdf
-Pillow
+azure-ai-documentintelligence>=1.0.0
+openai>=1.0.0
+pymupdf>=1.23.0
+Pillow>=9.0.0
